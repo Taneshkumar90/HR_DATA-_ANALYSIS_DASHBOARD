@@ -94,6 +94,27 @@ After the data cleaning process, exploratory analysis on the dataset is performe
   <img src="https://github.com/user-attachments/assets/250a6a47-3459-4f4c-9739-7f93486d0c92" alt="Attrition by Education Field" width="400">
 </p>
   
+## Datasets Used
+The datasets used include:
+- HR_Analytics.csv: This excel file dataset included the following Attributes:
+
+   - EmpID: Includes ID of employees
+   - Age : Age of employees
+   - AgeGroup	Attrition : Age group of employees created based on Age columns
+   - Department : Department in which employees are working
+   - EducationField : Education Field related to each employees
+   - EmployeeCount : No of employees (by counting distinct employee ID)
+  	- Gender : Gender of employees
+   - JobRole : Job role assigned to employee
+  	- JobSatisfaction : Job satisfaction rating given by left employees
+   - MonthlyIncome : Monthly income of each employee
+   - SalarySlab : salary salabs created by using on monthly income  
+	  - YearsAtCompany : working years of Employees in company 
+
+
+## Tools and Technologies used
+The tools used in this project include:
+- __POWER BI__ - This <b>Business Intelligence</b> tool was required to explore data and create charts, graphs, visualizations to come up with a <b>HR Data Analysis </b> for the  company. The Power BI HR ANALYSIS Dashboard can be found [here](https://github.com/Taneshkumar90/HR_DATA-_ANALYSIS_DASHBOARD/blob/main/HR_Data_Analysis%20(1).pdf)
 
 
 
