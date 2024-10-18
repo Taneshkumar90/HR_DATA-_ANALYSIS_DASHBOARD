@@ -26,6 +26,74 @@ In the data cleaning step the data quality of the following datasets were first 
     -Checked Formats of all attributes of dataset 
   - Checked whether there are duplicate records present in the dataset. In this dataset there were no duplicate records.
 
+   ### 2. Exploratory Data Analysis on Attrition in organization
+After the data cleaning process, exploratory analysis on the dataset is performed and the following insights are obtained :
+
+- <b>Key Descriptive Statistics</b> :
+  - Number of **total employees** in the organization   = 1416
+  - number of total employees who left the organization = 229
+  - **Attrition** in the organization                       = 16.17%
+  -  **Average Years at organizaton** empoyees worked       = 7 yr
+  -  **Average Age** of employees                               = 36.92 yr
+  -  **Average Salary** of employees                        = 6.5k $
+
+
+- <b>Attrition by **education field** of employees </b> :
+   - Life Science Education Field  holds **Most Attrition percentage** 38.4% of all Attrition in Organization based on Eduation Field
+  - Human Resources holds The lowest Percentage less than 3% of all Attrition in Organization 
+  - **Technical Degree** and **marketing** Education Fields almost have same attribution percentage around 24% 
+ <p align="left">
+  <img src="https://github.com/user-attachments/assets/83bc8e3e-c8fe-45a9-9171-f0e9e2d7c11e" alt="Attrition by Education Field" width="400">
+</p>
+
+- <b>Attrition by **Age Gruop** of employees </b> :
+  
+   - **Most number of attrition** in 26-35 Age gruop  111 
+   - 35+ Age gruop have The **lowest Attrition number**  less than 10 
+   - A steep drop observed attrition after 26-30 age gruop
+ 
+ <p align="left">
+  <img src="https://github.com/user-attachments/assets/3913f139-d198-4478-b156-78ef81cc317a" alt="Attrition by Education Field" width="400">
+</p> 
+
+- <b>**Job satisfaction rating**  based on job role </b> :
+  
+  - Healthcare Representative and Sales Representative have have more 4 star rating based on total number of rating given to each job Role
+  - Laboratory Technician Manager Job role give lowest job satisfaction rating (18 bad rating)
+  - Mostly highest given to each job role is 3 star
+ 
+ <p align="left">
+  <img src="https://github.com/user-attachments/assets/83ede614-df62-46c8-92d0-2f8416d94a52" alt="Attrition by Education Field" width="400">
+</p> 
+
+- <b>Attrition by **Salary Gruop** of employees </b> :
+  
+   - **Most number of attrition** in up to 5k $ salary gruop  158 which very crucial metrics 
+   - 15k+ Salary gruop have The **lowest Attrition number**  less than 5 
+   - A steep drop observed attrition after 5k salary slary gruop
+ 
+ <p align="left">
+  <img src="https://github.com/user-attachments/assets/201ae639-874e-42cc-a3a0-735fb40fb812" alt="Attrition by Education Field" width="400">
+</p> 
+
+- <b>Attrition by **Years At Company** of employees </b> :
+  
+   - Mostly employees left the company  within or after just 1 year
+  - After 3 years mostly employees retained in company 
+  - After 11 years none of employees left the companly
+ <p align="left">
+  <img src="https://github.com/user-attachments/assets/209d9e41-d43a-44a0-a6b6-1c1fd62b175a" alt="Attrition by Education Field" width="400">
+</p>
+
+
+- <b>Attrition by **Job Role** in company </b> :
+  
+   - Mostly Sales Executive employees(55) left the company ( 
+  - Least Attrition (5) in Research Department 
+ <p align="left">
+  <img src="https://github.com/user-attachments/assets/250a6a47-3459-4f4c-9739-7f93486d0c92" alt="Attrition by Education Field" width="400">
+</p>
+  
 
 
 
