@@ -6,7 +6,7 @@ To build an HR data analysis dashboard that provides insights into increasing em
 
 
 ## Power BI Dashboard
-The HR Analysis Dashboard can be found [here](https://github.com/user-attachments/files/17407384/HR_Data_Analysis.pdf)
+The HR Analysis Dashboard can be found [here](https://github.com/Taneshkumar90/HR_DATA-_ANALYSIS_DASHBOARD/blob/main/HR_Data_Analysis%20(1).pdf)
 
 
 
