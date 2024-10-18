@@ -88,8 +88,8 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 
 - <b>Attrition by **Job Role** in company </b> :
   
-   - Mostly Sales Executive employees(55) left the company ( 
-  - Least Attrition (5) in Research Department 
+   - Mostly Sales Executive employees(55) left the company
+  - Least Attrition (2) in Research Director
  <p align="left">
   <img src="https://github.com/user-attachments/assets/250a6a47-3459-4f4c-9739-7f93486d0c92" alt="Attrition by Education Field" width="400">
 </p>
